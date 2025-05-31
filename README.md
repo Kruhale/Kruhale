@@ -4,13 +4,14 @@ Soy un estudiante de desarrollo de aplicaciones web, con muchas ganas de aprende
 
 ## Acerca de mi
 - 🧑🏽‍💻 Tengo 19 años
-- 📧 Correo electronico: alejandrobravocalderon9@gmail.com  
 - 🌱 Estoy aprendiendo java y el uso de la libreria openAI en python.
 - 🤖 Estoy interesado en la inteligencia artificial, robotica, aplicaciones multiplataforma y webs.
 
 ## CONTACTO
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-bravo-calder%C3%B3n-671203342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  
+- 📧 Correo electronico: alejandrobravocalderon9@gmail.com
+- 📱 Telefono: +34 658 56 73 75
+
 💬 Preguntame lo que sea y te ayudare 😁
 
 
