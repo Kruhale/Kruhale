@@ -4,8 +4,11 @@ Soy un estudiante de desarrollo de aplicaciones web, con muchas ganas de aprende
 
 ## Acerca de mi
 - 🧑🏽‍💻 Tengo 19 años
-- 🌱 Estoy aprendiendo java y el uso de la libreria openAI en python.
-- 🤖 Estoy interesado en la inteligencia artificial, robotica, aplicaciones multiplataforma y webs.
+- 🌱 Aprendiendo librerías de openai, 
+- 🤖 Estoy interesado en la inteligencia artificial, robótica, aplicaciones multiplataforma y webs.
+
+## 🌟 Proyectos destacados
+- https://github.com/Kruhale/personaltrainerAI#
 
 ## CONTACTO
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-bravo-calder%C3%B3n-671203342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -15,7 +18,7 @@ Soy un estudiante de desarrollo de aplicaciones web, con muchas ganas de aprende
 💬 Preguntame lo que sea y te ayudare 😁
 
 
-## Lenguajes que uso
+## Lenguajes que domino
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()  
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)]()  
