@@ -4,7 +4,7 @@ Soy un estudiante de desarrollo de aplicaciones web, con muchas ganas de aprende
 
 ## Acerca de mi
 - 🧑🏽‍💻 Tengo 19 años
-- 🌱 Aprendiendo librerías de openai, 
+- 🌱 Aprendiendo librerías de openai y desarrollando Cofira
 - 🤖 Estoy interesado en la inteligencia artificial, robótica, aplicaciones multiplataforma y webs.
 
 ## 🌟 Proyectos destacados
