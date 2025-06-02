@@ -8,7 +8,7 @@ Soy un estudiante de desarrollo de aplicaciones web, con muchas ganas de aprende
 - 🤖 Estoy interesado en la inteligencia artificial, robótica, aplicaciones multiplataforma y webs.
 
 ## 🌟 Proyectos destacados
-- https://github.com/Kruhale/personaltrainerAI#
+- https://github.com/Kruhale/Cofira#
 
 ## CONTACTO
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-bravo-calder%C3%B3n-671203342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
