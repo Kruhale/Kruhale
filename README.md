@@ -1,19 +1,17 @@
-<!-- ════════════════════════════════  HEADER BANNER  ════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     HEADER
+     ════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Alejandro%20Bravo%20Calder%C3%B3n&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=210&section=header&text=Alejandro%20Bravo%20Calder%C3%B3n&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=64" width="100%" alt="Alejandro Bravo Calderón" />
 
-<!-- ────────────────────────────  ANIMATED TYPING TEXT  ──────────────────────────── -->
 <a href="https://github.com/Kruhale">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=55&lines=Junior+Web+Developer+from+Spain;Laravel+%7C+Angular+%7C+React+%7C+Next.js;DAW+%26+SMR+Technician;Open+to+my+first+developer+role!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=55&lines=Junior+Full-Stack+Web+Developer+from+Spain;Angular+%7C+Spring+Boot+%7C+Laravel+%7C+React;Docker+%7C+CI%2FCD+%7C+REST+APIs+%7C+Databases;Building+real+projects+and+learning+every+day" alt="Typing introduction" />
 </a>
 
-<!-- ─────────────────────────────  BADGES & SOCIALS  ─────────────────────────────── -->
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Kruhale&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile Views" />
-
-<br/><br/>
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-bravo-calder%C3%B3n-671203342)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrobravocalderon@gmail.com)
@@ -21,182 +19,213 @@
 
 </div>
 
-<br/>
+<br />
 
-<!-- ════════════════════════════════  ABOUT ME  ════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     ABOUT
+     ════════════════════════════════════════════════════════════════════════════ -->
+
 ## 🧑‍💻 About Me
 
-I'm Alejandro, 20, from Cádiz. I've been building things since I was a kid — robots, automation tools, cybersecurity projects, and now full-stack web apps that solve real problems.
+I'm Alejandro, a full-stack web developer from **Cádiz, Spain**, focused on building useful, maintainable software and learning by shipping real projects.
 
-I learn fast and I care deeply about quality and structure. I believe a small, well-organized team can outperform a large, chaotic one — and that's the standard I hold myself and the people I work with to.
+I enjoy working across the whole stack: from frontend architecture and UX to REST APIs, databases, containers and deployment. I'm especially interested in **clean code, automation, cybersecurity and developer tooling**.
 
-Right now I'm redesigning web projects, getting back into robotics, and preparing programming courses to teach this summer.
+- 🇪🇸 Based in **Spain**
+- 🎓 **DAW** (Web Application Development) Technician
+- 🖥️ **SMR** (Microcomputer Systems & Networks) Technician
+- 💻 **Junior Full-Stack Web Developer**
+- 🧱 Frontend, backend, databases and deployment
+- 🚀 Self-hosted projects running with **Docker, Nginx and CI/CD**
+- 🤖 Interested in **AI, automation, robotics and cybersecurity**
+- 🌱 Currently learning **Flutter** and exploring **.NET**
+- 💼 **Open to junior developer opportunities**
 
-- 🌍 Based in **Spain** 🇪🇸
-- 🎓 Certified **DAW** (Web Application Development) Technician + **SMR** (Microcomputer Systems & Networks) Technician
-- 💻 **Junior Full-Stack Web Developer** — comfortable from the database to the deploy
-- 🛠️ I ship real projects, including self-hosted deployment tooling running on my own **VPS** (Nginx · Docker · CI/CD)
-- 🌱 Currently learning **Flutter** to move into cross-platform apps
-- 💼 **Open to my first developer role** — let's build something great together!
-- 💬 Ask me anything, I'm always happy to help 😁
+<br />
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     BEYOND THE CODE
+     ════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ════════════════════════════════  BEYOND THE CODE  ═════════════════════════════ -->
 ## 🛡️ Beyond the Code
 
-- 🛡️ I compete in cybersecurity (CTF) and competitive programming tournaments
-- 🎥 I create and teach programming courses online — turning what I learn into content that helps others
-- 👨‍🏫 A hands-on programming mentor, always happy to help fellow devs level up
-- 🏆 Always up for a good challenge: a contest, a side project, or a stubborn bug
+- 🛡️ Cybersecurity, CTFs and security research
+- 🧠 Competitive programming and algorithmic problem solving
+- 🎥 Creating programming content and educational material
+- 👨‍🏫 Helping other developers learn and improve
+- 🧪 Constantly experimenting with new tools, architectures and ideas
 
+<br />
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     TECH STACK
+     ════════════════════════════════════════════════════════════════════════════ -->
 
-> *"The only way to do great work is to love what you do."*
->
-> — Steve Jobs
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════  TECH STACK  ══════════════════════════════════ -->
 ## 🔩 Tech Stack
 
 <div align="center">
 
-#### 💻 Languages
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,py,java,kotlin,bash,powershell&perline=11" />
+### 💻 Languages
 
-#### 🧩 Frameworks &amp; Libraries
-<img src="https://skillicons.dev/icons?i=laravel,angular,react,nextjs,spring,tailwind,wordpress&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,py,java,kotlin,bash,powershell&perline=11" alt="Programming languages" />
 
-#### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
-&nbsp;
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="48" />
+### 🧩 Frameworks & Libraries
 
-#### ⚙️ DevOps &amp; Tools
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gradle,git,github,vscode,idea&perline=8" />
+<img src="https://skillicons.dev/icons?i=laravel,angular,react,nextjs,spring,tailwind,wordpress&perline=7" alt="Frameworks and libraries" />
 
-#### 🖥️ Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,debian,windows,apple&perline=4" />
-&nbsp;
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" height="48" />
+### 🗄️ Databases
 
-#### 🌱 Currently Learning
-<img src="https://skillicons.dev/icons?i=flutter,dotnet&perline=2" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb&perline=4" alt="Databases" />
+
+### ⚙️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gradle,git,github,vscode,idea&perline=8" alt="DevOps and tools" />
+
+### 🖥️ Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,debian,windows,apple,fedora&perline=5" alt="Operating systems" />
+
+### 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=flutter,dotnet&perline=2" alt="Currently learning" />
 
 </div>
 
-<br/>
+<br />
 
-<!-- ═════════════════════════════  FEATURED PROJECTS  ══════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+     ════════════════════════════════════════════════════════════════════════════ -->
+
 ## 🗂️ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 AutoDeployService
-> Full-stack **VPS deployment & management panel** — provision, deploy and monitor your apps on your own server from a single dashboard.
+### 🚀 AutoDeploy
 
-`Angular 20` · `Spring Boot 3.4` · `MongoDB` · `Docker` · `GitHub Actions`
+A **self-hosted VPS deployment and management platform** designed to simplify provisioning, deployment and application management from a single dashboard.
+
+`Angular` · `Spring Boot` · `MongoDB` · `Docker` · `GitHub Actions`
 
 🔗 **[autodeploy.kruhale.com](https://autodeploy.kruhale.com)**
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💪 Cofira
-> A **fitness tracking web app** to plan workouts and follow your progress over time.
 
-`Angular` · `TypeScript` · `Spring Boot` · `SCSS`
+A **full-stack fitness and nutrition platform** with adaptive training, AI-generated meal plans and detailed progress tracking.
 
-🔗 **[cofira.kruhale.com](https://cofira.kruhale.com)** &nbsp;·&nbsp; 💻 **[Code](https://github.com/Kruhale/Cofira)**
+`Angular 20` · `Spring Boot 4` · `Java 21` · `PostgreSQL` · `Docker`
+
+🔗 **[cofira.kruhale.com](https://cofira.kruhale.com)** · 💻 **[Source Code](https://github.com/Kruhale/Cofira)**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 kruhale.com
-> My **personal portfolio & landing page** — projects, background and ways to get in touch.
+
+My **personal portfolio and development lab**, used to showcase projects, experiments, background and ways to get in touch.
 
 `Web` · `Self-hosted`
 
 🔗 **[kruhale.com](https://kruhale.com)**
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤝 Let's Work Together
-> I'm actively looking for my **first developer role**. Junior, eager to learn, and already shipping real projects.
+### 🧪 More Projects
 
-📫 **[Reach out below!](#-connect-with-me)**
+I regularly experiment with new ideas around **web development, automation, AI, cybersecurity and developer tooling**.
+
+🔗 **[Explore all repositories →](https://github.com/Kruhale?tab=repositories)**
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
 
-<!-- ═══════════════════════════════  GITHUB STATS  ═════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     GITHUB STATS
+     Generated locally by GitHub Actions
+     ════════════════════════════════════════════════════════════════════════════ -->
+
 ## 💹 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kruhale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruhale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img src="./profile/stats-light.svg" alt="GitHub statistics" width="49%" />
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <img src="./profile/top-langs-light.svg" alt="Top programming languages" width="49%" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Kruhale&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+  <img src="./profile/streak-light.svg" alt="GitHub contribution streak" width="70%" />
+</picture>
 
 </div>
 
-<br/>
+<br />
 
-<!-- ════════════════════════════════  TROPHIES  ════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     TROPHIES
+     ════════════════════════════════════════════════════════════════════════════ -->
+
 ## 🎖️ Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kruhale&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true" />
+
+<img src="./profile/trophy.svg" alt="GitHub trophies" width="95%" />
+
 </div>
 
-<br/>
+<br />
 
-<!-- ═══════════════════════════════  SNAKE ANIMATION  ══════════════════════════════ -->
-## 🐍 Watch My Contributions
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     SNAKE
+     ════════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kruhale/Kruhale/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kruhale/Kruhale/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Kruhale/Kruhale/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img src="./profile/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 </picture>
+
 </div>
 
-<br/>
+<br />
 
-<!-- ═══════════════════════════════  ACTIVITY GRAPH  ═══════════════════════════════ -->
-## 🌊 Activity Graph
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     CONNECT
+     ════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kruhale&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════  CONNECT  ═════════════════════════════════════ -->
 ## 🌐 Connect With Me
 
 <div align="center">
 
-I'm open to opportunities, collaborations and a good chat about code. Let's talk!
+I'm open to **junior developer opportunities, collaborations and interesting technical projects**.
 
-<br/><br/>
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-bravo-calder%C3%B3n-671203342)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrobravocalderon@gmail.com)
@@ -205,5 +234,14 @@ I'm open to opportunities, collaborations and a good chat about code. Let's talk
 
 </div>
 
-<!-- ════════════════════════════════  FOOTER  ══════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer" width="100%" />
+<br />
+
+<div align="center">
+
+> **Build. Break. Learn. Ship.**
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer" width="100%" alt="Footer" />
