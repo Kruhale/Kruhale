@@ -1,32 +1,135 @@
-name: Generate Snake Animation
+name: Update Profile Assets
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
 
+  schedule:
+    - cron: "17 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
+    name: Generate profile assets
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+
     steps:
-      - name: Generate snake SVGs
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      # ─────────────────────────────────────────────────────────────
+      # GitHub Stats - DARK
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate stats card (dark)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true"
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # GitHub Stats - LIGHT
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate stats card (light)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&hide_border=true"
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # Top Languages - DARK
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate top languages (dark)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # Top Languages - LIGHT
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate top languages (light)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css"
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # Contribution Streak - DARK
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate streak (dark)
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: "user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # Contribution Streak - LIGHT
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate streak (light)
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: "user=${{ github.repository_owner }}&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # Trophies
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true"
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────
+      # Contribution Snake
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            profile/github-snake.svg
+            profile/github-snake-dark.svg?palette=github-dark
 
-      - name: Push SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # ─────────────────────────────────────────────────────────────
+      # Commit generated assets
+      # ─────────────────────────────────────────────────────────────
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+
+          if git diff --cached --quiet; then
+            echo "No profile assets changed."
+            exit 0
+          fi
+
+          git commit -m "chore(profile): refresh generated assets [skip ci]"
+          git push
